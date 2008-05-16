@@ -1,0 +1,9 @@
+\.git
+_build
+blib
+MANIFEST.bak
+Acme-.*nic.*de-0.01.tar.gz
+^Build$
+^Makefile.PL$
+^Build$
+

@@ -1,0 +1,12 @@
+Build.PL
+ChangeLog
+examples/synopsis.pl
+lib/Acme/Ünicöde.pm
+MANIFEST
+MANIFEST.SKIP
+META.yml			# Will be created by "make dist"
+README
+t/00-load.t
+t/boilerplate.t
+t/pod-coverage.t
+t/pod.t

@@ -1,0 +1,58 @@
+Acme-Ünicöde
+
+This distribution is primarily made to learn where Unicode works and
+where not. Does it work in filenames? As module name? Are sub names
+ok? If yes, then where do I need to "use utf8;" and where not. How far
+can PAUSE and CPAN handle it? If you read this then CPAN at least
+survived the upload.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+    perl Build.PL
+    ./Build
+    ./Build test
+    ./Build install
+
+
+SUPPORT AND DOCUMENTATION
+
+In reality I hope to never have to give any kind of support for this
+module; I'm lucky if all goes well for myself. :-) But YOU are invited
+to support ME if you know how to do it better.
+
+However, module-starter gave me that nice theoretical boilerplate, and
+it shows some nice situations where things can go wrong for
+itself. Try them out and see how broken or how well it looks.
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc Acme::Ünicöde
+
+You can also look for information at:
+
+    Search CPAN
+        http://search.cpan.org/dist/Acme-Ünicöde
+
+    CPAN Request Tracker:
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Acme-Ünicöde
+
+    AnnoCPAN, annotated CPAN documentation:
+        http://annocpan.org/dist/Acme-Ünicöde
+
+    CPAN Ratings:
+        http://cpanratings.perl.org/d/Acme-Ünicöde
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2008 Steffen Schwigon
+
+This program is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
+
+
+# Local Variables:
+# buffer-file-coding-system:utf-8
+# End:
