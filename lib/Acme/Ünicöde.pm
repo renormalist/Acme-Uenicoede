@@ -5,6 +5,10 @@ package Acme::Ünicöde;
 use warnings;
 use strict;
 
+=pod
+
+=encoding utf8
+
 =head1 NAME
 
 Acme::Ünicöde - Ünicöde to the max!
@@ -19,11 +23,11 @@ survived the upload.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 SYNOPSIS
 
@@ -96,8 +100,6 @@ L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Acme-Ünicöde>
 L<http://search.cpan.org/dist/Acme-Ünicöde>
 
 =back
-
-=head1 ACKNOWLEDGEMENTS
 
 =head1 COPYRIGHT & LICENSE
 

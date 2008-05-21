@@ -7,9 +7,9 @@ my $builder = Module::Build->new
  (
   module_name         => 'Acme::Ünicöde',
   license             => 'perl',
-  #dist_name           => 'Acme-Ünicöde',
-  dist_version        => '0.01',
-  #dist_abstract       => 'Ünicöde to the max',
+  dist_name           => 'Acme-Ünicöde',
+  dist_version        => '0.02',
+  dist_abstract       => 'Ünicöde to the max!',
   dist_author         => 'Steffen Schwigon <ss5@renormalist.net>',
   dist_version_from   => 'lib/Acme/Ünicöde.pm',
   build_requires => {

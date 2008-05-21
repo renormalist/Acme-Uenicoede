@@ -1,3 +1,9 @@
+2008-05-22  Steffen Schwigon  <ss5@renormalist.net>
+
+	* 0.02
+
+	* =encoding utf8 in pod
+
 2008-05-17  Steffen Schwigon  <ss5@renormalist.net>
 
 	* 0.01
