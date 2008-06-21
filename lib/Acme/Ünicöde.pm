@@ -21,13 +21,9 @@ ok? If yes, then where do I need to "use utf8;" and where not. How far
 can PAUSE and CPAN handle it? If you read this then CPAN at least
 survived the upload.
 
-=head1 VERSION
-
-Version 0.02
-
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.04';
 
 =head1 SYNOPSIS
 
@@ -61,7 +57,7 @@ Steffen Schwigon, C<< <ss5 at renormalist.net> >>
 
 Please report any bugs or feature requests to C<bug-acme-unicode at
 rt.cpan.org>, or through the web interface at
-L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Acme-Ünicöde>.  I
+L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Acme-Uenicoede>.  I
 will be notified, and then you'll automatically be notified of
 progress on your bug as I make changes.
 
@@ -85,19 +81,19 @@ You can also look for information at:
 
 =item * AnnoCPAN: Annotated CPAN documentation
 
-L<http://annocpan.org/dist/Acme-Ünicöde>
+L<http://annocpan.org/dist/Acme-Uenicoede>
 
 =item * CPAN Ratings
 
-L<http://cpanratings.perl.org/d/Acme-Ünicöde>
+L<http://cpanratings.perl.org/d/Acme-Uenicoede>
 
 =item * RT: CPAN's request tracker
 
-L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Acme-Ünicöde>
+L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Acme-Uenicoede>
 
 =item * Search CPAN
 
-L<http://search.cpan.org/dist/Acme-Ünicöde>
+L<http://search.cpan.org/dist/Acme-Uenicoede>
 
 =back
 

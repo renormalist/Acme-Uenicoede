@@ -1,12 +1,14 @@
 ---
-name: Acme-Ünicöde
-version: 0.02
+name: Acme-Uenicoede
+version: 0.04
 author:
   - 'Steffen Schwigon <ss5@renormalist.net>'
 abstract: Ünicöde to the max!
 license: perl
 resources:
   license: http://dev.perl.org/licenses/
+requires:
+  perl: 5.008
 build_requires:
   Test::More: 0
 generated_by: Module::Build version 0.280801
