@@ -2,7 +2,7 @@
 
 use Test::More;
 
-plan skip_all => "Test::Pod::Coverage does not like our 'Invalid and untaintable filename'.";
+plan skip_all => "because Test::Pod::Coverage does not like our 'Invalid and untaintable filename'.";
 
 eval "use Test::Pod::Coverage 1.04";
 plan skip_all => "Test::Pod::Coverage 1.04 required for testing POD coverage" if $@;
