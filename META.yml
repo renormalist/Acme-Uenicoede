@@ -1,9 +1,9 @@
 ---
 name: Acme-Uenicoede
-version: 0.05
+version: 0.0501
 author:
   - 'Steffen Schwigon <ss5@renormalist.net>'
-abstract: Ünicöde to the max.
+abstract: ÃœnicÃ¶de to the max.
 license: perl
 resources:
   license: http://dev.perl.org/licenses/
@@ -17,7 +17,7 @@ meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
   version: 1.2
 provides:
-  Acme::Ünicöde:
-    abstract: Ünicöde to the max!
-    file: lib/Acme/Ünicöde.pm
-    version: 0.05
+  Acme::ÃœnicÃ¶de:
+    abstract: ÃœnicÃ¶de to the max!
+    file: lib/Acme/ÃœnicÃ¶de.pm
+    version: 0.0501

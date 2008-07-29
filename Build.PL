@@ -12,7 +12,7 @@ sub prepare_metadata {
         $node->{provides} = {
                              'Acme::Ünicöde' => {
                                                  file     => 'lib/Acme/Ünicöde.pm',
-                                                 version  => '0.05',
+                                                 version  => '0.0501',
                                                  abstract => 'Ünicöde to the max!',
                                                 },
                             };
@@ -25,7 +25,7 @@ my $builder = $class->new
   module_name         => 'Acme::Ünicöde',
   license             => 'perl',
   dist_name           => 'Acme-Uenicoede',
-  dist_version        => '0.05',
+  dist_version        => '0.0501',
   dist_abstract       => 'Ünicöde to the max.',
   #dist_version_from   => 'lib/Acme/Ünicöde.pm',
   dist_author         => 'Steffen Schwigon <ss5@renormalist.net>',
